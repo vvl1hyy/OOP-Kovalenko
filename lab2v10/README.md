@@ -53,4 +53,4 @@
    
 2. Запустити застосунок:
   ```bash
-  dotnet run
+   dotnet run
