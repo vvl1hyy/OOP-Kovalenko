@@ -36,6 +36,12 @@
 
 ---
 
+## Результат виконання програми
+
+<img width="781" height="271" alt="image" src="https://github.com/user-attachments/assets/812e4fe1-766e-4c24-808e-16bfa6112c91" />
+
+---
+
 ## Демонстрація роботи
 
 1. Створення об'єкта через конструктор за замовчуванням.
@@ -54,5 +60,3 @@
 2. Запустити застосунок:
    ```bash
    dotnet run
-
-<img width="781" height="271" alt="image" src="https://github.com/user-attachments/assets/812e4fe1-766e-4c24-808e-16bfa6112c91" />
