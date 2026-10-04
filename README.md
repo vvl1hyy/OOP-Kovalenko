@@ -9,6 +9,6 @@
 
 ## Як запустити проєкти локально
 
-1. Клонувати репозиторій:
    ```bash
    git clone https://github.com/vvl1hyy/OOP-Kovalenko.git
+   cd OOP-Kovalenko
