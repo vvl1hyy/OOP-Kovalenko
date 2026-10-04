@@ -17,7 +17,7 @@ namespace lab3v10
             _width = width;
             _height = height;
             _isAllocated = true;
-            Console.WriteLine($"Буфер зображення {_width}x{height} виділено в пам'яті.");
+            Console.WriteLine($"Буфер зображення {_width}x{_height} виділено в пам'яті.");
         }
 
         public void DrawPixel(int x, int y)
