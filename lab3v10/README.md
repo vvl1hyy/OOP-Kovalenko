@@ -11,7 +11,7 @@
 
 ## Результат роботи програми
 
-<img width="781" height="271" alt="image" src="https://github.com/user-attachments/assets/812e4fe1-766e-4c24-808e-16bfa6112c91" />
+<img width="534" height="345" alt="image" src="https://github.com/user-attachments/assets/9932054c-0fdf-417b-a7b7-e663049eee0a" />
 
 ---
 
