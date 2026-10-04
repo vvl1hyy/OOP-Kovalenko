@@ -11,5 +11,4 @@
 
 1. Клонувати репозиторій:
    ```bash
-   git clone [https://github.com/vvl1hyy/OOP-Kovalenko.git](https://github.com/vvl1hyy/OOP-Kovalenko.git)
-   cd OOP-Kovalenko
+   git clone https://github.com/vvl1hyy/OOP-Kovalenko.git
