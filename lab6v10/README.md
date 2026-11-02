@@ -11,7 +11,7 @@
 
 ## Результат роботи програми
 
-<img width="600" alt="image" src="ТУТ_ПОСИЛАННЯ_НА_ТВІЙ_СКРІНШОТ_З_ГІТХАБУ" />
+<img width="550" height="160" alt="image" src="https://github.com/user-attachments/assets/6348453b-656b-4a26-a62c-eeb262cd114f" />
 
 ---
 
@@ -54,7 +54,5 @@
    cd lab6v10
 
 2. Запустити застосунок:
-
-   `2``bash
-
+   ```bash
    dotnet run 
